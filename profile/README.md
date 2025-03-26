@@ -51,6 +51,6 @@ Check out our open roles and help shape the future of journalism:
 This repo is part of our open digital ecosystem.  
 If you’re curious, passionate about media tech, or want to collaborate — you’re in the right place.
 
-📬 _Let’s connect: [contact@lexpress.fr](mailto:contact@lexpress.fr)_
+📬 _Let’s connect: [olajeunesse@lexpress.fr](mailto:olajeunesse@lexpress.fr)_
 
 > 🧭 _Trusted since 1953. Rebuilt for today_
