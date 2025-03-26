@@ -1,12 +1,56 @@
-## Hi there 👋
+# 👋 Welcome to L'Express — The Code Side
 
-<!--
+**L’Express** is one of France’s most iconic news magazines — independent, sharp, and forward-thinking since 1953.
 
-**Here are some ideas to get you started:**
+But we’re not just about headlines.  
+We’re also building the future of digital journalism — one commit at a time.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🧠 Who we are
+
+- 🇫🇷 Founded in Paris, read worldwide  
+- 📰 Weekly news, deep dives, and bold investigations  
+- 💡 Committed to truth, clarity, and modern storytelling  
+- 💻 Growing team of developers, data scientists & product designers  
+
+---
+
+## 🚀 What we’re building
+
+We're reinventing how journalism is created, delivered, and experienced.  
+Expect modern stacks, clean architecture, API-first platforms, and a **developer-first culture**.
+
+Whether it's headless CMS, scalable publishing pipelines, or multilingual static sites — we code with purpose.
+
+---
+
+## 🛠 Tech we use
+
+- ⚙️ **Frontend**: React / Twig / Tailwind  
+- 📦 **Backend**: Node.js / Python / Symfony  
+- 🧱 **CMS**: ARC XP / Headless  
+- ☁️ **Infra**: Docker / GIT / CI-CD / AWS / Firebase  
+- 🌍 **Languages**: French-first, fully multilingual with DeepL API
+
+> _We love clean code, fast builds, and meaningful user experiences._
+
+---
+
+## 💼 Careers
+
+We’re hiring!  
+Check out our open roles and help shape the future of journalism:
+
+👉 [Linkedin](https://www.linkedin.com/company/lexpress/)
+
+---
+
+## 🤝 Join the mission
+
+This repo is part of our open digital ecosystem.  
+If you’re curious, passionate about media tech, or want to collaborate — you’re in the right place.
+
+📬 _Let’s connect: [contact@lexpress.fr](mailto:contact@lexpress.fr)_
+
+> 🧭 _Trusted since 1953. Rebuilt for today_
